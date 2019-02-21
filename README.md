@@ -1,6 +1,12 @@
 # 3d-ptv-jet-flow
 
-@ronshnapp created a beautiful demo case and the analysis for the NCTRV school http://nctr.eu/index.php/en/ and share it with the world. 
+@ronshnapp https://ronshnapp.wordpress.com/ created a beautiful demo case and the analysis for the NCTRV school http://nctr.eu/index.php/en/ and share it with the world. 
+
+Read more here: https://ronshnapp.wordpress.com/2019/02/20/3d-ptv-demo-turbulent-jet/
+
+![photo](https://ronshnapp.files.wordpress.com/2019/02/setup_smaller.jpg)
+
+
 
 
 
