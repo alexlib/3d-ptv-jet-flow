@@ -1,0 +1,20 @@
+[project]
+authors = ["Alex Liberzon <alexlib@users.noreply.github.com>"]
+channels = ["conda-forge", "bioconda"]
+name = "3d-ptv-jet-flow"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+numpy = ">=2.2.3,<3"
+scipy = ">=1.15.2,<2"
+matplotlib = ">=3.10.0,<4"
+pandas = ">=2.2.3,<3"
+jupyter = ">=1.1.1,<2"
+ipykernel = ">=6.29.5,<7"
+
+[pypi-dependencies]
+flowtracks = ">=1.0, <2"
